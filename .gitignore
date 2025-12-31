@@ -17,6 +17,39 @@ xcuserdata/
 timeline.xctimeline
 playground.xcworkspace
 
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Debug information files
+*.dwo
+
+# Executables
+*.exe
+*.out
+*.app
+
+## Swift              
 # Swift Package Manager
 #
 # Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
